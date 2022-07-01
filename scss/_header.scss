@@ -1,0 +1,27 @@
+.header {
+   position: relative;
+   z-index: 10;
+}
+
+.header__container {
+   background: #7FAFF7;
+   height: 100px;
+   display: flex;
+   align-items: center;
+}
+
+.button {
+   width: 206px;
+   height: 39px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   padding: 8px 15px;
+   background: #A5C7F9;
+   border-radius: 5px;
+   cursor: pointer;
+   font-size: 20px;
+   line-height: 1.15px;
+   color: #FFFFFF;
+   margin-left: 30px;
+}
