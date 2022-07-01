@@ -65,7 +65,7 @@
 
 .page__slider {
    display: flex;
-   padding: 2.564vw;
+   padding: 30px;
    gap: 2.564vw;
    width: 100%;
    height: 100%;
@@ -75,6 +75,7 @@
 
    @media (max-width: 600px) {
       margin-bottom: 3.419vw;
+      padding: 2.564vw;
    }
 }
 
