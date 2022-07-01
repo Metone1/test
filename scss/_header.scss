@@ -24,4 +24,8 @@
    line-height: 1.15px;
    color: #FFFFFF;
    margin-left: 30px;
+
+   @media (max-width: 900px) {
+      font-size: 16px;
+   }
 }

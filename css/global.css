@@ -25,6 +25,11 @@
   color: #FFFFFF;
   margin-left: 30px;
 }
+@media (max-width: 900px) {
+  .button {
+    font-size: 16px;
+  }
+}
 
 .page__container {
   display: flex;
